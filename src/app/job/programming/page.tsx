@@ -1,6 +1,5 @@
-import Link from "next/link";
 import Navbar from "@/app/component/Navbar";
-import { Style } from "util"
+
 
 export default function Programming()  {
   return (
