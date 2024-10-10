@@ -1,6 +1,5 @@
 import Navbar from "./component/Navbar";
-import Link from "next/link";
-import { Style } from "util"
+
 
 export default function mainPage(){
     return(

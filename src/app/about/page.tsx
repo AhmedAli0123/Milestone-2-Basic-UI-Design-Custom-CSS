@@ -1,7 +1,4 @@
-import Link from "next/link"
 import Navbar from "../component/Navbar"
-import { link } from "fs"
-import { Style } from "util"
 
 export default function About(){
     return(   

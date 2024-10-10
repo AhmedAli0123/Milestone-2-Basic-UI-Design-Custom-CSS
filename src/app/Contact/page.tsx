@@ -1,6 +1,6 @@
-import Link from "next/link";
+
 import Navbar from "../component/Navbar";
-import { Style } from "util"
+
 
 export default function Contact(){
     return(

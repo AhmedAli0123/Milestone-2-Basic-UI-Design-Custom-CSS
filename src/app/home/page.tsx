@@ -1,5 +1,3 @@
-import  Link  from "next/link";
-import { Style } from "util"
 import Navbar from '@/app/component/Navbar'
 
 export default function Home()  {
